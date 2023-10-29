@@ -3,12 +3,12 @@
 <suite name="All Test Suite">
     <test name="Automation - Test Run">
         <classes>
-            <class name="com.visible.runner.TestRunner"/>
+            <class name="com.webautomation.runner.TestRunner"/>
         </classes>
     </test>
     <test name="Automation - Test Run Retry">
         <classes>
-            <class name="com.visible.runner.TestRunner_Retry"/>
+            <class name="com.webautomation.runner.TestRunner_Retry"/>
         </classes>
     </test>
 </suite>
